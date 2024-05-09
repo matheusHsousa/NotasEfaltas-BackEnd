@@ -1,0 +1,29 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "base64-img": "^1.0.4",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.18.2",
+    "image-size": "^1.1.1",
+    "image-type": "^5.2.0",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.9.7",
+    "ngx-stars": "^1.6.5",
+    "nodemon": "^2.0.22",
+    "qrcode": "^1.5.3",
+    "sharp": "^0.28.2",
+    "wbm": "^1.1.16"
+  },
+  "description": ""
+}
